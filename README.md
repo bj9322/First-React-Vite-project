@@ -8,13 +8,13 @@
 2024.10.29 ~ 2024.11.01
 # 주요 기능
 
-## App.jsx
+1. App.jsx: 메인 컴포넌트, 전체적인 상태관리와 주요함수 기능 포함
 
 
-## MedalForm.jsx
+2. MedalForm.jsx: 국가 정보를 입력하는 폼을 담당
 
 
-## MedalItem.jsx
+3. MedalItem.jsx: 개별 국가의 정보 및 버튼을 화면에 표시
 
 
-## MedalList.jsx
+4. MedalList.jsx: 국가 정보를 MedalItem으로 전달해 리스트 형태로 렌더링
