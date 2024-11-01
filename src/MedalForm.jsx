@@ -1,4 +1,3 @@
-// MedalForm.jsx
 import { useState, useEffect } from "react";
 
 function MedalForm({ onAddOrUpdate, editingCountry }) {

@@ -1,4 +1,3 @@
-// MedalItem.jsx
 function MedalItem({ country, onEdit, onDelete }) {
     return (
         <li>

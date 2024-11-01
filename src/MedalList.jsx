@@ -1,4 +1,3 @@
-// MedalList.jsx
 import MedalItem from "./MedalItem";
 
 function MedalList({ countries, onEdit, onDelete }) {
