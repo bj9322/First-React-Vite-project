@@ -6,7 +6,15 @@
 
 
 2024.10.29 ~ 2024.11.01
-# 개발 환경
+# 주요 기능
+
+## App.jsx
 
 
-React
+## MedalForm.jsx
+
+
+## MedalItem.jsx
+
+
+## MedalList.jsx
