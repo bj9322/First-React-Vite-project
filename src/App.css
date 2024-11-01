@@ -1,0 +1,63 @@
+/* App.css */
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #87CEEB; /* 파란 배경 */
+  min-height: 100vh;
+  font-family: Arial, sans-serif;
+  color: #333;
+  padding: 20px;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+form {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+input {
+  padding: 5px;
+  font-size: 16px;
+}
+
+button {
+  padding: 5px 10px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.medal-section {
+  width: 100%;
+  max-width: 500px;
+  margin-top: 20px;
+  background-color: #f3f3f3;
+  padding: 15px;
+  border-radius: 8px;
+}
+
+.medal-section h2 {
+  margin-bottom: 15px;
+}
+
+.medal-section ul {
+  list-style: none;
+  padding: 0;
+}
+
+.medal-section li {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  margin-bottom: 10px;
+  background-color: #fff;
+  border-radius: 5px;
+}
+
+.medal-section li button {
+  margin-left: 10px;
+}
