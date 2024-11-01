@@ -18,3 +18,7 @@
 
 
 4. MedalList.jsx: 국가 정보를 MedalItem으로 전달해 리스트 형태로 렌더링
+
+
+# 기능 동작 스크린샷
+![스크린샷 2024-11-01 150814](https://github.com/user-attachments/assets/7309fbef-0c1d-4884-be35-b3b9d322bef2)
