@@ -10,6 +10,15 @@
   padding: 20px;
 }
 
+button {
+  flex-shrink: 30px;
+}
+
+span {
+  flex-shrink: 1;
+  width: 130px;
+}
+
 h1 {
   margin-bottom: 20px;
 }
@@ -33,7 +42,7 @@ button {
 
 .medal-section {
   width: 100%;
-  max-width: 500px;
+  max-width: 1200px;
   margin-top: 20px;
   background-color: #f3f3f3;
   padding: 15px;
